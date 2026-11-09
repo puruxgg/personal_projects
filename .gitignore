@@ -1,0 +1,28 @@
+# ==========================================
+# Python Bytecode and Runtime Cache
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# ==========================================
+# VS Code Configuration Files
+# ==========================================
+.vscode/
+
+# ==========================================
+# Operating System Artifacts
+# ==========================================
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# ==========================================
+# Python Virtual Environments (Future Use)
+# ==========================================
+venv/
+env/
+ENV/
+.env
